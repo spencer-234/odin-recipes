@@ -1,0 +1,26 @@
+h1 {
+    color: darkslategrey;
+    font-style: italic;
+    text-decoration: underline wavy;
+}
+
+h2 {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+img {
+    border: 10px solid black;
+}
+
+p {
+    background-color: rgba(0, 0, 139, 0.2);
+}
+
+* {
+    text-align: center;
+}
+
+ul, ol {
+    list-style-position: inside;
+}
